@@ -1,12 +1,23 @@
-# Halo semua! 
+# Robi Firmansyah | Cloud & DevOps Engineer
 
-Perkenalkan nama saya **Robi Firmansyah**.
+Hi there! 👋  
+I’m **Robi Firmansyah**, a Cloud Engineer specializing in Cloud Infrastructure, DevOps, and Automation.
 
-Saya seorang **Mahasiswa** di [STMIK Mardira Indonesia](https://stmik-mi.ac.id/).
+## 🚀 About Me
 
-Saat ini saya berusia 20 tahun, dan kuliah mengammbil jurusan Teknik Informatika semester 5, saya berharap kemampuan pemrogramman saya bisa terus bertambah, dengan usaha yang kuat dan bantuan dari kalian semua yaa..
+- Cloud Engineer at **Smartnet Magna Global**  
+- Experience in deploying and managing **cloud-native infrastructure**  
+- Skilled in **DevOps automation, CI/CD pipelines, and container orchestration**  
+- Passionate about building secure, scalable, and efficient cloud systems
 
-Jika ada pertanyaan silahka hubungi saya [di sini](https://api.whatsapp.com/send?phone=628991689990).
+## 🛠️ Tech Stack
 
-Atau kalian bisa kunjungi Instagram saya [di sini](https://www.instagram.com/robifirmnsyah/).
+- **Cloud:** Google Cloud | AWS | Azure  
+- **DevOps & Automation:** Kubernetes | Docker | Terraform | Ansible | GitHub Actions | GitLab CI/CD | Jenkins  
+- **Monitoring & Observability:** Prometheus | Grafana | Logging & Monitoring  
+- **Programming & Scripting:** Python | Java | Node.js | Bash  
+- **Version Control:** Git | GitHub | GitLab  
 
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/robifirmansyah/) | [Email](mailto:robifirmansyah314@gmail.com)
